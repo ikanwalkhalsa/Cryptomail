@@ -1,0 +1,2 @@
+# Cryptomail
+Cryptomail is just an simple algorithm which encodes or decodes entered text and mail it. It has some cool features like passwords for encoded msgs will be valid only for one day, and encoding pattren changes after each encode each day will have its own 90k possibilities , which will change every next day,  another cool feature is Even in same string same chars will not have same encode     ex:  if you enter "aaa" its encoded version will be something like "#j1u" and not "###" or "111" or ''uuu" etc
